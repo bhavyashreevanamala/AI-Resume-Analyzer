@@ -3,3 +3,4 @@ PyPDF2
 spacy
 python-docx
 nltk
+gunicorn
